@@ -1,4 +1,4 @@
-// Easy tool to reset most ECU with TMS374 popular called Sweeper 
+// Easy tool popular called Sweeper to help reset TMS374 used in many vehicle ECU / ECM
 // this is easy variable frequency generator square wave using cheap ARDUINO
 // Signal Output ARDUINO PORT 10 to connect RESET PIN ( EPROM 28C512 PIN22 ) if (EPROM 27C512 PIN23)  in PLCC CASE
 //------------------------------------------------------------------------------------------------------------------
