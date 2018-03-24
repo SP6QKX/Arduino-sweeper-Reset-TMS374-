@@ -1,6 +1,6 @@
-// Easy tool and fast tool to  Reset Most ECU with TMS374 most called Sweeper 
+// Easy tool to reset most ECU with TMS374 popular called Sweeper 
 // this is easy variable frequency generator square wave using cheap ARDUINO
-// Signal Output ARDUINO PORT 10 to Reset PIN EPROM 28C512 PIN22 if EPROM 27C512 PIN23  in PLCC CASE
+// Signal Output ARDUINO PORT 10 to connect RESET PIN ( EPROM 28C512 PIN22 ) if (EPROM 27C512 PIN23)  in PLCC CASE
 //------------------------------------------------------------------------------------------------------------------
 
 int bright = 0;
@@ -8,14 +8,18 @@ int fade = 1;
 void setup() {
 pinMode(10, OUTPUT);        // Output Port 9 
 pinMode(13, OUTPUT);        // Output Port 13 LED
-digitalWrite(13, HIGH);     // LED ON ( SWEPER RUN )  
+digitalWrite(13, HIGH);     // LED ON ( SWEPER RUN )
+delay (500);
+digitalWrite(13, LOW);     // LED ON ( SWEPER RUN )
+delay (500);
+digitalWrite(13, HIGH);     // LED ON ( SWEPER RUN )
+delay (500);
 }
 void loop() {
 digitalWrite(10, HIGH);
 delayMicroseconds (bright); 
 digitalWrite(10, LOW);
 delayMicroseconds (bright);  
-
 bright = bright + fade;
 if (bright <= 0 || bright >= 6000) {
 fade = -fade;
@@ -23,4 +27,3 @@ fade = -fade;
 }
 //--------------------------------------------------------------------------------------------------------------
 // That all folks :) vy73 De Daniel SP6QKX . 24.03.2018 
-
