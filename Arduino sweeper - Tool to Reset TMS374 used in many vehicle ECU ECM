@@ -5,8 +5,8 @@
 int bright = 0;
 int fade = 1;
 void setup() {
-pinMode(10, OUTPUT);       // Output Port 9 
-pinMode(13, OUTPUT);       // Output Port 13 LED
+pinMode(10, OUTPUT);       // Output Port 10
+pinMode(13, OUTPUT);       // Output Port 13 
 digitalWrite(13, HIGH);    // LED ON 
 delay (500);
 digitalWrite(13, LOW);    // LED OFF
