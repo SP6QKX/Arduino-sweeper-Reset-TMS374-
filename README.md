@@ -9,7 +9,13 @@ this is easy variable frequency generator square wave using cheap ARDUINO.
 
 Signal Output ARDUINO PORT 10 to connect RESET PIN ( EPROM 28C512 PIN22 ) if (EPROM 27C512 PIN23)  in PLCC CASE
 
+----------------------------------------------------------------------------------------------------------------
 
-That all folks :) vy73 De Daniel SP6QKX
+If you would like donate to support my projects and development
 
-www.qrz.com/db/sp6qkx
+https://www.paypal.com/pools/c/8cTo5eOF8T
+
+That all folks :) vy73 Daniel SP6QKX . https://www.qrz.com/db/sp6qkx
+
+Thanks and Greetings
+
