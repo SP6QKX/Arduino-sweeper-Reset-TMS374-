@@ -11,16 +11,18 @@ Signal Output ARDUINO PORT 10 to connect RESET PIN ( EPROM 28C512 PIN22 ) if (EP
 
 ----------------------------------------------------------------------------------------------------------------
 
-If you would like donate to support my projects and development
+More information on email  s p 6 q k x @ p o c z t a . f m
 
-https://paypal.me/sp6nip
+[https://qrz.com/DB/SP6QKX
 
-That all folks :) vy73 Daniel SP6QKX . https://www.qrz.com/db/sp6qkx
+https://www.facebook.com/sp6qkx
 
-Thanks and Greetings
+https://www.winsell.pl
 
-ZWROT GOTÓWKI - CASHBACK  $$$$$  https://tiny.pl/9gh2m .
+https://www.sp6qkx.winsell.pl
 
-SHOPPING CASHBACK - Register and Get BONUS  $$$ .
+That all folks :) 
 
-Otrzymasz 10zł za otwarcie konta CashBack za zakupy w Internecie !
+Thanks and Greetings 
+
+vy73 Daniel SP6QKX )
